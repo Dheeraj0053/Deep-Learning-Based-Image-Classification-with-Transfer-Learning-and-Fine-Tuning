@@ -19,13 +19,7 @@ This project implements image classification using the Airplanes, Motorbikes, an
 
 - **Evaluation Metrics:**  
   - Confusion Matrix  
-  - Precision, Recall, and F1-Score  
-
-## Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/image-classification-deep-learning.git  
-   cd image-classification-deep-learning  
+  - Precision, Recall, and F1-Score   
  
 **Usage**
 Run Transfer Learning notebooks (Model1_TL.ipynb, Model2_TL.ipynb, Model3_TL.ipynb).
